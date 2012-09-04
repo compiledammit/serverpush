@@ -1,0 +1,13 @@
+
+.classpath
+.project
+classes/*
+target/*
+*.log
+log/*
+*.iml
+out/*
+GrailsChat.ipr
+GrailsChat.iws
+.idea/
+
