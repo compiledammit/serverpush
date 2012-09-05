@@ -1,4 +1,4 @@
-This example is based on the [Chat sample](../GrailsChat),
+This example is based on the [Chat sample](../master/GrailsChat),
 which is itself based the [Atmosphere](https://github.com/Atmosphere/atmosphere/) [chat sample](https://github.com/Atmosphere/atmosphere/wiki/Getting-Started-with-the-samples),
 but within a Grails application.
 
