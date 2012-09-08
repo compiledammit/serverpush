@@ -15,5 +15,5 @@ The point is to demonstrate how to target messages on the server by
 * Publishing messages to different broadcasters.
 
 In this case, I'm publishing to a "/pie" broadcaster if the incoming message contains the string "pie". However,
-you could certainly choose a broadcaster based on anything available in the AtmosphereResource, the incoming message, etc.
+you could certainly choose a broadcaster based on anything available in the AtmosphereResource, the incoming message, etc. 
 
